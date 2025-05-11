@@ -14,5 +14,6 @@ Firmware will track flight events (launch, apogee, landing), altitude, location,
 <br/>
 <br/>
 <br/>
+
 ![Board back.](/Micro-Flight/Media/image-back.png)
 ![Board front.](/Micro-Flight/Media/image-front.png)
