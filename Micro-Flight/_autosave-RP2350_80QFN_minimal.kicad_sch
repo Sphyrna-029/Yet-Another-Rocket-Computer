@@ -7783,6 +7783,17 @@
 		)
 		(uuid "4513a4a9-c99c-408f-9add-7b97358628c9")
 	)
+	(text "Altimeter\n"
+		(exclude_from_sim no)
+		(at 400.558 185.928 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left bottom)
+		)
+		(uuid "530fb0aa-35c8-40e9-90ee-f658073fefec")
+	)
 	(text "STATUS LED\n"
 		(exclude_from_sim no)
 		(at 100.584 313.436 0)
