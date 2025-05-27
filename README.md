@@ -5,9 +5,8 @@ YARC (Yet Another Rocket Comptuer). Rocket flight computers are all the craze no
 ##### Features
  - 3-axis gyroscope and a 3-axis accelerometer (MPU6050)
  - GPS (LC86G with built in patch)
- - Telemetry (Ebyte E22 Lora Module)
- - Total footprint is 45mm x 62mm
-<br/>
+ - Telemetry (1 Watt Ebyte E22 Lora Module)
+ - Total footprint is 35mm x 90mm
 <br/>
 <br/>
 Firmware will track flight events (launch, apogee, landing), altitude, location, and attitude. In addition to aiding in post flight recovery. 
